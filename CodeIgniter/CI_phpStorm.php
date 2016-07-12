@@ -10,7 +10,7 @@
  * This property values were borrowed from another site on the internet
  * This is just a better way to implement it, rather than editing core CI files
  *
- * PHP version 5
+ * PHP version 5, 7
  *
  * LICENSE: GPL http://www.gnu.org/copyleft/gpl.html
  *
